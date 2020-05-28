@@ -1,0 +1,9 @@
+html, body {
+  height: 100%;
+}
+
+.background {
+  background-color: #0a1c3f;
+  color: #ed1a59;
+  font-family: 'Courier New', Courier, monospace;
+}
