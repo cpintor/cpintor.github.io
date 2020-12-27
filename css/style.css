@@ -1,6 +1,6 @@
 html, body {
   height: 100%;
-  background-color: #f3f2ef;
+  background-color: #f3f2ef !important;
   font-family: 'IBM Plex Serif', serif;
 }
 
