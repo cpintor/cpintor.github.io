@@ -1,11 +1,17 @@
 html, body {
   height: 100%;
   background-color: #f3f2ef;
+  font-family: 'IBM Plex Serif', serif;
 }
 
-.background {
+h1 {
   color: #00f;
   font-family: 'IBM Plex Serif', serif;
+}
+
+p {
+  font-family: 'IBM Plex Serif', serif;
+  color: #363636;
 }
 
 .bi {
