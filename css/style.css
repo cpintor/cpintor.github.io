@@ -17,3 +17,7 @@ p {
 .bi {
   color: #00f;
 }
+
+.bi:hover {
+  color: rgb(21, 97, 248);
+}
